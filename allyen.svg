@@ -1,0 +1,77 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="20" height="20">
+  <font id = "myFont"
+        horiz-adv-x   = "1200"
+        vert-origin-x = "0"
+        vert-origin-y = "0" >
+    <font-face font-family  = "Allyen"
+               font-weight  = "normal"
+               units-per-em = "1000">
+      <font-face-src>
+        <font-face-name name="myFont"/>
+      </font-face-src>
+    </font-face>`
+    <glyph unicode=" " d="M0 0" />
+
+    <glyph unicode="a" d="M0 0h1000v1000h-200v-800h-800z" />
+    <glyph unicode="A" d="M0 0h1000v1000h-200v-800h-800z" />
+    <glyph unicode="b" d="M0 1000v-1000h1000v1000h-200v-800h-600v800z" />
+    <glyph unicode="B" d="M0 1000v-1000h1000v1000h-200v-800h-600v800z" />
+    <glyph unicode="c" d="M0 1000v-1000h1000v200h-800v800z" />
+    <glyph unicode="C" d="M0 1000v-1000h1000v200h-800v800z" />
+    <glyph unicode="d" d="M0 1000v-200h800v-600h-800v-200h1000v1000z" />
+    <glyph unicode="D" d="M0 1000v-200h800v-600h-800v-200h1000v1000z" />
+    <glyph unicode="e" d="M0 1000v-1000h1000v1000h-1000z M200 800h600v-600h-600z" />
+    <glyph unicode="E" d="M0 1000v-1000h1000v1000h-1000z M200 800h600v-600h-600z" />
+    <glyph unicode="f" d="M1000 1000h-1000v-1000h1000v200h-800v600h800z" />
+    <glyph unicode="F" d="M1000 1000h-1000v-1000h1000v200h-800v600h800z" />
+    <glyph unicode="g" d="M0 1000v-200h800v-800h200v1000z" />
+    <glyph unicode="G" d="M0 1000v-200h800v-800h200v1000z" />
+    <glyph unicode="h" d="M0 1000v-1000h1000v1000h-200v-800h-600v800z" />
+    <glyph unicode="H" d="M0 1000v-1000h1000v1000h-200v-800h-600v800z" />
+    <glyph unicode="i" d="M0 0h200v800h800v200h-1000z" />
+    <glyph unicode="I" d="M0 0h200v800h800v200h-1000z" />
+
+    <glyph unicode="j" d="M0 0h1000v1000h-200v-800h-800z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="J" d="M0 0h1000v1000h-200v-800h-800z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="k" d="M0 1000v-1000h1000v1000h-200v-800h-600v800z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="K" d="M0 1000v-1000h1000v1000h-200v-800h-600v800z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="l" d="M0 1000v-1000h1000v200h-800v800z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="L" d="M0 1000v-1000h1000v200h-800v800z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="m" d="M0 1000v-200h800v-600h-800v-200h1000v1000z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="M" d="M0 1000v-200h800v-600h-800v-200h1000v1000z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="n" d="M0 1000v-1000h1000v1000h-1000z M200 800h600v-600h-600z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="N" d="M0 1000v-1000h1000v1000h-1000z M200 800h600v-600h-600z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="o" d="M1000 1000h-1000v-1000h1000v200h-800v600h800z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="O" d="M1000 1000h-1000v-1000h1000v200h-800v600h800z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="p" d="M0 1000v-200h800v-800h200v1000z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="P" d="M0 1000v-200h800v-800h200v1000z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="q" d="M0 1000v-1000h1000v1000h-200v-800h-600v800z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="Q" d="M0 1000v-1000h1000v1000h-200v-800h-600v800z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="r" d="M0 0h200v800h800v200h-1000z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+    <glyph unicode="R" d="M0 0h200v800h800v200h-1000z M300 500a200 200 0 0 0 400 0a200 200 0 0 0 -400 0z" />
+
+    <glyph unicode="s" d="M0 0l1000 500l-1000 500v-200l600 -300l-600 -300z" />
+    <glyph unicode="S" d="M0 0l1000 500l-1000 500v-200l600 -300l-600 -300z" />
+    <glyph unicode="t" d="M500 0 l500 1000h-200l-300 -600l-300 600h-200z" />
+    <glyph unicode="T" d="M500 0 l500 1000h-200l-300 -600l-300 600h-200z" />
+    <glyph unicode="u" d="M1000 0v200l-600 300l600 300v200l-1000 -500z" />
+    <glyph unicode="U" d="M1000 0v200l-600 300l600 300v200l-1000 -500z" />
+    <glyph unicode="v" d="M500 1000l-500 -1000h200l300 600l300 -600h200z" />
+    <glyph unicode="V" d="M500 1000l-500 -1000h200l300 600l300 -600h200z" />
+
+
+    <glyph unicode="w" d="M0 0l1000 500l-1000 500v-200l600 -300l-600 -300z M0 500a150 150 0 0 0 300 0a150 150 0 0 0 -300 0z" />
+    <glyph unicode="W" d="M0 0l1000 500l-1000 500v-200l600 -300l-600 -300z M0 500a150 150 0 0 0 300 0a150 150 0 0 0 -300 0z" />
+    <glyph unicode="x" d="M500 0 l500 1000h-200l-300 -600l-300 600h-200z M350 850a150 150 0 0 0 300 0a150 150 0 0 0 -300 0z" />
+    <glyph unicode="X" d="M500 0 l500 1000h-200l-300 -600l-300 600h-200z M350 850a150 150 0 0 0 300 0a150 150 0 0 0 -300 0z" />
+    <glyph unicode="y" d="M1000 0v200l-600 300l600 300v200l-1000 -500z M700 500a150 150 0 0 0 300 0a150 150 0 0 0 -300 0z" />
+    <glyph unicode="Y" d="M1000 0v200l-600 300l600 300v200l-1000 -500z M700 500a150 150 0 0 0 300 0a150 150 0 0 0 -300 0z" />
+    <glyph unicode="z" d="M500 1000l-500 -1000h200l300 600l300 -600h200z M350 150a150 150 0 0 0 300 0a150 150 0 0 0 -300 0z" />
+    <glyph unicode="z" d="M500 1000l-500 -1000h200l300 600l300 -600h200z M350 150a150 150 0 0 0 300 0a150 150 0 0 0 -300 0z" />
+
+
+  </font>
+  <!-- path d="M0 0l1000 500l-1000 500v-200l600 -300l-600 -300z M0 500a150 150 0 0 0 300 0a150 150 0 0 0 -300 0z" /-->
+  <path d="M500 1000l-500 -1000h200l300 600l300 -600h200z M350 150a150 150 0 0 0 300 0a150 150 0 0 0 -300 0z" />
+</svg>
