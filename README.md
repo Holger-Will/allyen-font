@@ -1,6 +1,6 @@
 # allyen-font
 
-![Allyen Font](https://rawgit.com/Holger-Will/allyen-font/master/screenshot.png "")
+![Allyen Font](https://cdn.jsdelivr.net/gh/Holger-Will/allyen-font/screenshot.png "")
 
 [live example](https://rawgit.com/Holger-Will/allyen-font/master/test.html)
 
